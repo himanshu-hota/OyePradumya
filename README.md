@@ -48,11 +48,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [React 17: New Features!! - JSX Transform is Amazing!!](https://www.youtube.com/watch?v=8D-rWP3c088)
-- [How To Make Responsive Website | Animated Hamburger Menu | HTML & CSS | Step By Step Tutorial 2020](https://www.youtube.com/watch?v=nME3fE3c9Qw)
-- [Become A VS Code SuperHero Today! | Course Launch](https://www.youtube.com/watch?v=MIsHYGZ3MwQ)
-- [How to Create a VS Code Extension Pack | Top Extensions | Download SuperHero Extension Pack Now!!](https://www.youtube.com/watch?v=DvNXEBxO3YQ)
-- [How to Create a Custom VS Code Theme (2020) | Step-by-Step | Debut of codeSTACKr Dark Theme](https://www.youtube.com/watch?v=QCqWzb-9Sy8)
+- [8 FREE Best Online Courses for October Month | Cybrary Certificate Courses](https://www.youtube.com/watch?v=e0YUFoDndFc)
+- [Get CEH Practical Exam Voucher(worth $550) from EC-Council | Hacker Halted 2020](https://www.youtube.com/watch?v=G7m-1RdGy4s)
+- [FREE Online IT Training & Certification | Software Developer, Business Int., Big Data Hadoop, DevOps](https://www.youtube.com/watch?v=GN9zwXShaTk)
+- [8 FREE Best Online Courses for September Month | CYBRARY Certificate | FREE Ethical Hacking Course](https://www.youtube.com/watch?v=m5U7rvlymDI)
+- [CISCO NDG Linux Essentials Course Exam Solutions | All 21 Exams Answered](https://www.youtube.com/watch?v=4sZ2z9LKimM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
