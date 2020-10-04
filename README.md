@@ -17,7 +17,7 @@
 [<img align="left" alt="OyeNautanki | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w)
 [<img align="left" alt="OyePradumya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/OyePradumya)
 [<img align="left" alt="OyePradumya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/OyePradumya)
-[<img align="left" alt="OyePradumya" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/oyepradumya)
+[<img align="left" alt="OyePradumya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/oyepradumya)
 
 <br />
 
