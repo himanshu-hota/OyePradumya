@@ -41,12 +41,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="PradumyaShrivastava's GitHub Stats" src="https://github-readme-stats.pradumyashrivastava.vercel.app/api?username=pradumyashrivastava&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
