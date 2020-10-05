@@ -1,7 +1,7 @@
 ### Hi there, I'm Pradumya Shrivastava - aka [OyeNautanki](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w) 👋
 
 [![Website](https://img.shields.io/website?label=oyenautanki.ml&style=for-the-badge&url=https%3A%2F%2Foyenautanki.ml)](https://oyenautanki.ml)
-[![Twitter Follow](https://img.shields.io/twitter/follow/oyepradumya?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/OyePradumya)
+[![Instagram Follow](https://img.shields.io/instagram/follow/oyepradumya?color=c32aa3&logo=instagram&style=for-the-badge)](https://instagram.com/OyePradumya)
 
 ## I'm a Student struggling in scoring marks to satisfy my parents!!
 
