@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Google IT Support Professional Certificate | Quiz + Lab Answers | Technical Support Fundamentals](https://www.youtube.com/watch?v=6W470DjhcMQ)
 - [10 Projects in Under 10 Minutes | Python Projects with Source Codes](https://www.youtube.com/watch?v=QlLH4JWQxGY)
 - [8 FREE Best Online Courses for October Month | Cybrary Certificate Courses](https://www.youtube.com/watch?v=e0YUFoDndFc)
 - [Get CEH Practical Exam Voucher(worth $550) from EC-Council | Hacker Halted 2020](https://www.youtube.com/watch?v=G7m-1RdGy4s)
 - [FREE Online IT Training & Certification | Software Developer, Business Int., Big Data Hadoop, DevOps](https://www.youtube.com/watch?v=GN9zwXShaTk)
-- [8 FREE Best Online Courses for September Month | CYBRARY Certificate | FREE Ethical Hacking Course](https://www.youtube.com/watch?v=m5U7rvlymDI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/OyeNautanki)
