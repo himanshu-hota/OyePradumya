@@ -30,11 +30,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Elephant threw Baba Ramdev | हाथी से गिर पड़े बाबा रामदेव #Clickbait](https://www.youtube.com/watch?v=Suoi0eltMkc)
 - [PluralSight Provides 7000+ Courses for FREE | #FreeWeek #October #FreeCourses](https://www.youtube.com/watch?v=Dow36_bFwBE)
 - [Alibaba Cloud Certification FREE Exam Voucher | ACA - Alibaba Cloud Associate | Limited Time Only](https://www.youtube.com/watch?v=cYLh4PcIHyk)
 - [The Nostalgic Doraemon Title Song ft. Sambit Patra](https://www.youtube.com/watch?v=8tbbW8xMxaM)
 - [Google IT Support Professional Certificate | Quiz + Lab Answers | Technical Support Fundamentals](https://www.youtube.com/watch?v=6W470DjhcMQ)
-- [10 Projects in Under 10 Minutes | Python Projects with Source Codes](https://www.youtube.com/watch?v=QlLH4JWQxGY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/OyeNautanki)
