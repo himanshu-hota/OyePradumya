@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to grow my [YouTube](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w) channel
-- 🥅 2021 Goals: Road to gain experience on corporate world.
+- 🥅 2021 Goals: Road to gain experience of corporate world.
 - ⚡ Fun fact: There is nothing funny about me (sed lyf)
 
 
