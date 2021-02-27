@@ -1,7 +1,7 @@
 ### Hi there, I'm Pradumya Shrivastava - aka [OyeNautanki](https://www.youtube.com/channel/UCQmaknLBt4CKFFB6RGxe56w) 👋
 
 [![Website](https://img.shields.io/website?label=oyenautanki.ml&style=for-the-badge&url=https%3A%2F%2Foyenautanki.ml)](https://oyenautanki.ml)
-[![Twitter Follow](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FOyePradumya)](https://twitter.com/OyePradumya)
+![Twitter Follow](https://img.shields.io/twitter/follow/OyePradumya?color=%231DA1F2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Student struggling in scoring marks to satisfy my parents!!
 
@@ -12,6 +12,7 @@
 
 <br/>
 <br/>
+
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
