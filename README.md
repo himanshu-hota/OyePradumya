@@ -11,7 +11,6 @@
 - ⚡ Fun fact: There is nothing funny about me (sed lyf)
 
 <br/>
-<br/>
 
 ### Spotify Playing 🎧
 
